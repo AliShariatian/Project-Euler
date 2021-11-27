@@ -8,3 +8,6 @@ for (n in 1:10) {
 
 print(p)
 
+
+# ไวÞี
+# naghes
