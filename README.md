@@ -1,3 +1,3 @@
 # Project Euler
 
-link: projecteuler.net
+link: https://projecteuler.net
